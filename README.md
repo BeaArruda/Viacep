@@ -42,7 +42,7 @@ https://viacep.com.br/ws/01001000/json/
 ---
 
 ## 📂 Estrutura do projeto
-projeto-pokeapi
+projeto-viacep
 │
 ├── index.html
 ├── style.css
